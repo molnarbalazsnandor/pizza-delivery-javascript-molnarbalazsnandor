@@ -1,0 +1,23 @@
+{
+  "name": "pizza-delivery-javascript-molnarbalazsnandor",
+  "version": "1.0.0",
+  "description": "No starter code is provided. Start from scratch!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodecoolGlobal/pizza-delivery-javascript-molnarbalazsnandor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodecoolGlobal/pizza-delivery-javascript-molnarbalazsnandor/issues"
+  },
+  "homepage": "https://github.com/CodecoolGlobal/pizza-delivery-javascript-molnarbalazsnandor#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

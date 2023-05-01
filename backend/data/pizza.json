@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "name": "Codeleone",
+        "price": 3400,
+        "ingredients": [
+            "mascarpone alap",
+            "bacon",
+            "karamellizált gomba",
+            "friss olasz fuszerkeverék",
+            "100% mozzarella"
+        ],
+        "image": "/images/pizza1.png",
+        "isAvailable": true
+    },
+    {
+        "id": 2,
+        "name": "Carrara",
+        "price": 3500,
+        "ingredients": [
+            "paradicsomos alap,sonka,gomba,mozzarella sajt"
+        ],
+        "image": "/images/pizza2.png",
+        "isAvailable": true
+    },
+    {
+        "id": 3,
+        "name": "Dorset",
+        "price": 3300,
+        "ingredients": [
+            "cheddar sajt alap,fuszeres csirkecomb,parmezán sajt,100% mozzarella,lilahagyma"
+        ],
+        "image": "/images/pizza3.png",
+        "isAvailable": false
+    },
+    {
+        "id": 4,
+        "name": "Magellan",
+        "price": 5000,
+        "ingredients": [
+            "paradicsomos alap,kolbász,bacon,lilahagyma,tojás,pfefferoni paprika,100% mozzarella sajt"
+        ],
+        "image": "/images/pizza4.png",
+        "isAvailable": true
+    },
+    {
+        "id": 5,
+        "name": "Michella",
+        "price": 3400,
+        "ingredients": [
+            "Fokhagymás tejfölös alap,szalámi,bacon,pfefferoni paprika,100% mozzarella sajt"
+        ],
+        "image": "/images/pizza5.png",
+        "isAvailable": true
+    },
+    {
+        "id": 6,
+        "name": "Négyévszak",
+        "price": 3300,
+        "ingredients": [
+            "sonka,borsó,kukorica,gomba,sajt"
+        ],
+        "image": "/images/pizza6.png",
+        "isAvailable": true
+    },
+    {
+        "id": 7,
+        "name": "Forester",
+        "price": 3300,
+        "ingredients": [
+            "szarvasgombás pestos paradicsom,pick mangalica szalámi,erdei vad gomba,ricotta,mozzarella sajt"
+        ],
+        "image": "/images/pizza7.png",
+        "isAvailable": true
+    }
+]
