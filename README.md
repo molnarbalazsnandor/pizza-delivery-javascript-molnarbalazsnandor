@@ -5,3 +5,11 @@ The task was to build a pizza ordering website in vanilla JavaScript, that manag
 On the frontend side, first the pizza menu is displayed, and an order card is opened once a choice has been made, requesting all the usual further information of the customer. Once the order is submitted, a fetch to the backend is initialized.
 
 The backend saves the pizza orders in json format, and gives them a timestamp, and later the status of the order can be overwritten via the order editor mode. New types of pizzas can also be uploaded, including their profile pictures.
+
+All the styling is class-based and has been done in SCSS.
+
+Credits to:
+
+- Dániel Lendvai,
+- Dávid Gyulai,
+- Ádám Juhász
